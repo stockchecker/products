@@ -153,5 +153,35 @@
         "name": "ASUS TUF Gaming GeForce RTX 3090 DirectX 12 TUF-RTX3090-O24G-GAMING",
         "itemId": "14-126-454",
         "type": "RTX3090"
+    },
+    {
+        "name": "GIGABYTE GeForce RTX 3090 DirectX 12 GV-N3090VISION OC",
+        "itemId": "14-932-365",
+        "type": "RTX3090"
+    },
+    {
+        "name": "MSI GeForce RTX 3090 DirectX 12 RTX 3090 GAMING X TRIO",
+        "itemId": "14-137-595",
+        "type": "RTX3090"
+    },
+    {
+        "name": "GIGABYTE GeForce RTX 3090 DirectX 12 GV-N3090EAGLE OC-24GD",
+        "itemId": "14-932-328",
+        "type": "RTX3090"
+    },
+    {
+        "name": "ZOTAC GAMING GeForce RTX 3090 Trinity 24GB ZT-A30900D-10P",
+        "itemId": "14-500-503",
+        "type": "RTX3090"
+    },
+    {
+        "name": "GIGABYTE GeForce RTX 3090 DirectX 12 GV-N3090EAGLE-24GD 24GB",
+        "itemId": "14-932-366",
+        "type": "RTX3090"
+    },
+    {
+        "name": "EVGA GeForce RTX 3090 XC3 ULTRA GAMING Video Card, 24G-P5-3975-KR",
+        "itemId": "14-487-524",
+        "type": "RTX3090"
     }
 ]
