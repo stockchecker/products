@@ -1,0 +1,22 @@
+[
+    {
+        name: "ASRock Radeon RX 6800 Phantom Gaming D",
+        itemId: "14-930-048",
+        type: "RX6800"
+    },
+    {
+        name: "ASRock Radeon RX 6800 Challenger Pro Gaming",
+        itemId: "14-930-047",
+        type: "RX6800"
+    },
+    {
+        name: "ASUS ROG STRIX Radeon RX 6800 ROG-STRIX-RX6800",
+        itemId: "14-126-477",
+        type: "RX6800"
+    },
+    {
+        name: "ASUS TUF Gaming Radeon RX 6800 TUF",
+        itemId: "14-126-478",
+        type: "RX6800"
+    }
+]
