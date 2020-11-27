@@ -1,5 +1,90 @@
 [
     {
+        "name": "ASRock Radeon RX 6800 Phantom Gaming D",
+        "itemId": "14-930-048",
+        "type": "RX6800"
+    },
+    {
+        "name": "ASRock Radeon RX 6800 Challenger Pro Gaming",
+        "itemId": "14-930-047",
+        "type": "RX6800"
+    },
+    {
+        "name": "ASUS ROG STRIX Radeon RX 6800 ROG-STRIX-RX6800",
+        "itemId": "14-126-477",
+        "type": "RX6800"
+    },
+    {
+        "name": "ASUS TUF Gaming Radeon RX 6800 TUF",
+        "itemId": "14-126-478",
+        "type": "RX6800"
+    },
+    {
+        "name": "MSI Radeon RX 6800",
+        "itemId": "14-137-608",
+        "type": "RX6800"
+    },
+    {
+        "name": "GIGABYTE Radeon RX 6800",
+        "itemId": "14-932-374",
+        "type": "RX6800"
+    },
+    {
+        "name": "SAPPHIRE Radeon RX 6800",
+        "itemId": "14-202-389",
+        "type": "RX6800"
+    },
+    {
+        "name": "ASRock Radeon RX 6800",
+        "itemId": "14-930-046",
+        "type": "RX6800"
+    },
+    {
+        "name": "GIGABYTE Radeon RX 6800 XT",
+        "itemId": "14-932-373",
+        "type": "RX6800"
+    },
+    {
+        "name": "XFX Speedster MERC319 Radeon RX 6800XT",
+        "itemId": "14-150-844",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT",
+        "itemId": "14-131-767",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "ASRock Radeon RX 6800 XT Taichi Gaming",
+        "itemId": "14-930-050",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "ASUS TUF Gaming Radeon RX 6800 XT",
+        "itemId": "14-126-476",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "ASRock Radeon RX 6800 XT Phantom Gaming D",
+        "itemId": "14-930-049",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "SAPPHIRE NITRO+ Radeon RX 6800 XT",
+        "itemId": "14-202-391",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "ASUS ROG STRIX Radeon RX 6800 XT ROG-STRIX-LC-RX6800XT-O16G-GAMING",
+        "itemId": "14-126-475",
+        "type": "RX6800XT"
+    },
+    {
+        "name": "SAPPHIRE NITRO+ Radeon RX 6800 XT",
+        "itemId": "14-202-390",
+        "type": "RX6800XT"
+    },
+    {
         "name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge",
         "itemId": "14-500-501",
         "type": "RTX3070"
