@@ -268,5 +268,11 @@
         "name": "EVGA GeForce RTX 3090 XC3 ULTRA GAMING Video Card, 24G-P5-3975-KR",
         "itemId": "14-487-524",
         "type": "RTX3090"
+    },
+    {
+
+        "name": "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING",
+        "itemId": "14-487-518",
+        "type": "RTX 3080"
     }
 ]
