@@ -274,5 +274,26 @@
         "name": "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING",
         "itemId": "14-487-518",
         "type": "RTX 3080"
+    },
+    {
+        "name": "AMD Ryzen 9 5900X",
+        "itemId": "19-113-664",
+        "type": "Ryzen 9"
+    },
+
+    {
+        "name": "AMD Ryzen 9 5950X",
+        "itemId": "19-113-663",
+        "type":"Ryzen 9"
+    },
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "itemId": "19-113-666",
+        "type": "Ryzen 5"
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "itemId": "19-113-665",
+        "type": "Ryzen 7"
     }
 ]
