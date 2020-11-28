@@ -413,5 +413,33 @@
         "type": "Ryzen 5000",
         "category": "CPU",
         "site": "newegg"
+    },
+    {
+        "name": "MSI Radeon RX 6800 XT",
+        "itemId": "14-137-607",
+        "type": "RX 6800XT",
+        "category": "GPU",
+        "site": "newegg"
+    },
+    {
+        "name": "SAPPHIRE Radeon RX 6800 XT",
+        "itemId": "14-202-388",
+        "type": "RX 6800XT",
+        "category": "GPU",
+        "site": "newegg"
+    },
+    {
+        "name": "ASRock Radeon RX 6800 XT",
+        "itemId": "14-930-045",
+        "type": "RX 6800XT",
+        "category": "GPU",
+        "site": "newegg"
+    },
+    {
+        "name": "GIGABYTE Radeon RX 6800 XT",
+        "itemId": "14-932-373",
+        "type": "RX 6800XT",
+        "category": "GPU",
+        "site": "newegg"
     }
 ]
