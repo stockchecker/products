@@ -92,63 +92,63 @@
         "series": "EVGA"
     },
     {
-        "name": "ASRock - Radeon RX6800 Phantom Gaming D",
+        "name": "ASRock - RX6800 Phantom Gaming D",
         "neweggId": "14-930-048",
         "type": "RX6800",
         "category": "GPU",
         "series": "ASRock"
     },
     {
-        "name": "ASRock - Radeon RX6800 Challenger Pro Gaming",
+        "name": "ASRock - RX6800 Challenger Pro Gaming",
         "neweggId": "14-930-047",
         "type": "RX6800",
         "category": "GPU",
         "series": "ASRock"
     },
     {
-        "name": "ASUS - ROG STRIX Radeon RX6800",
+        "name": "ASUS - ROG STRIX RX6800",
         "neweggId": "14-126-477",
         "type": "RX6800",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "ASUS - TUF Gaming Radeon RX6800 TUF",
+        "name": "ASUS - TUF Gaming RX6800 TUF",
         "neweggId": "14-126-478",
         "type": "RX6800",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "MSI - Radeon RX6800",
+        "name": "MSI - RX6800",
         "neweggId": "14-137-608",
         "type": "RX6800",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "GIGABYTE - Radeon RX6800",
+        "name": "GIGABYTE - RX6800",
         "neweggId": "14-932-374",
         "type": "RX6800",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "SAPPHIRE - Radeon RX6800",
+        "name": "SAPPHIRE - RX6800",
         "neweggId": "14-202-389",
         "type": "RX6800",
         "category": "GPU",
         "series": "SAPPHIRE"
     },
     {
-        "name": "ASRock - Radeon RX6800",
+        "name": "ASRock - RX6800",
         "neweggId": "14-930-046",
         "type": "RX6800",
         "category": "GPU",
         "series": "ASRock"
     },
     {
-        "name": "GIGABYTE - Radeon RX6800XT",
+        "name": "GIGABYTE - RX6800XT",
         "neweggId": "14-932-373",
         "type": "RX6800",
         "category": "GPU",
@@ -169,42 +169,42 @@
         "series": "PowerColor"
     },
     {
-        "name": "ASRock - Radeon RX6800XT Taichi",
+        "name": "ASRock - RX6800XT Taichi",
         "neweggId": "14-930-050",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASRock"
     },
     {
-        "name": "ASUS - TUF Gaming Radeon RX6800XT",
+        "name": "ASUS - TUF Gaming RX6800XT",
         "neweggId": "14-126-476",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "ASRock - Radeon RX6800XT Phantom Gaming D",
+        "name": "ASRock - RX6800XT Phantom Gaming D",
         "neweggId": "14-930-049",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASRock"
     },
     {
-        "name": "SAPPHIRE - NITRO+ Radeon RX6800XT",
+        "name": "SAPPHIRE - NITRO+ RX6800XT",
         "neweggId": "14-202-391",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "SAPPHIRE"
     },
     {
-        "name": "ASUS - ROG STRIX Radeon RX6800XT",
+        "name": "ASUS - ROG STRIX RX6800XT",
         "neweggId": "14-126-475",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "SAPPHIRE - NITRO+ Radeon RX6800XT",
+        "name": "SAPPHIRE - NITRO+ RX6800XT",
         "neweggId": "14-202-390",
         "type": "RX6800XT",
         "category": "GPU",
@@ -507,28 +507,28 @@
         "series": "AMD"
     },
     {
-        "name": "MSI - Radeon RX6800XT",
+        "name": "MSI - RX6800XT",
         "neweggId": "14-137-607",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "SAPPHIRE - Radeon RX6800XT",
+        "name": "SAPPHIRE - RX6800XT",
         "neweggId": "14-202-388",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "SAPPHIRE"
     },
     {
-        "name": "ASRock - Radeon RX6800XT",
+        "name": "ASRock - RX6800XT",
         "neweggId": "14-930-045",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASRock"
     },
     {
-        "name": "GIGABYTE - Radeon RX6800XT",
+        "name": "GIGABYTE - RX6800XT",
         "neweggId": "14-932-373",
         "type": "RX6800XT",
         "category": "GPU",
