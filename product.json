@@ -1,6 +1,6 @@
 [
     {
-        "name": "MSI - GeForce RTX3070 VENTUS",
+        "name": "MSI - RTX3070 VENTUS",
         "bestbuyId": "6438278",
         "type": "RTX3070",
         "category": "GPU",
@@ -14,28 +14,28 @@
         "series": "ASUS"
     },
     {
-        "name": "NVIDIA - GeForce RTX3070 FE",
+        "name": "NVIDIA - RTX3070 FE",
         "bestbuyId": "6429442",
         "type": "RTX3070",
         "category": "GPU",
         "series": "NVIDIA"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3070 VISION",
+        "name": "GIGABYTE - RTX3070 VISION",
         "bestbuyId": "6439385",
         "type": "RTX3070",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3070 RGB",
+        "name": "GIGABYTE - RTX3070 RGB",
         "bestbuyId": "6437909",
         "type": "RTX3070",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "GIGABYTE - (AUROS) GeForce RTX3070",
+        "name": "GIGABYTE - (AUROS) RTX3070",
         "skuId": "6439384",
         "type": "RTX3070",
         "category": "GPU",
@@ -49,14 +49,14 @@
         "series": "GIGABYTE"
     },
     {
-        "name": "PNY - GeForce RTX3070 EPIC-X RGB",
+        "name": "PNY - RTX3070 EPIC-X RGB",
         "skuId": "6432653",
         "type": "RTX3070",
         "category": "GPU",
         "series": "PNY"
     },
     {
-        "name": "PNY - GeForce RTX3070 8GB Dual Fan Graphics Card",
+        "name": "PNY - RTX3070 Dual",
         "bestbuyId": "6432654",
         "type": "RTX3070",
         "category": "GPU",
@@ -64,28 +64,28 @@
 
     },
     {
-        "name": "GIGABYTE - (EAGLE) GeForce RTX3070 ",
+        "name": "GIGABYTE - (EAGLE) RTX3070 ",
         "bestbuyId": "6437912",
         "type": "RTX3070",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "EVGA - GeForce RTX3070 XC3 BLACK",
+        "name": "EVGA - RTX3070 XC3 BLACK",
         "bestbuyId": "6439300",
         "type": "RTX3070",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "EVGA - GeForce RTX3070 FTW3 ULTRA",
+        "name": "EVGA - RTX3070 FTW3 ULTRA",
         "bestbuyId": "6439301",
         "type": "RTX3070",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "EVGA - GeForce RTX3070 XC3 ULTRA",
+        "name": "EVGA - RTX3070 XC3 ULTRA",
         "bestbuyId": "6439299",
         "type": "RTX3070",
         "category": "GPU",
@@ -106,7 +106,7 @@
         "series": "ASRock"
     },
     {
-        "name": "ASUS - ROG STRIX Radeon RX6800 ROG-STRIX-RX6800",
+        "name": "ASUS - ROG STRIX Radeon RX6800",
         "neweggId": "14-126-477",
         "type": "RX6800",
         "category": "GPU",
@@ -155,21 +155,21 @@
         "series": "GIGABYTE"
     },
     {
-        "name": "XFX - Speedster MERC319 Radeon RX6800XT",
+        "name": "XFX - 6800XT Speedster MERC319",
         "neweggId": "14-150-844",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "XFX"
     },
     {
-        "name": "PowerColor - Red Devil Limited Edition AMD Radeon RX6800XT",
+        "name": "PowerColor - Red Devil ",
         "neweggId": "14-131-767",
         "type": "RX6800XT",
         "category": "GPU",
         "series": "PowerColor"
     },
     {
-        "name": "ASRock - Radeon RX6800XT Taichi Gaming",
+        "name": "ASRock - Radeon RX6800XT Taichi",
         "neweggId": "14-930-050",
         "type": "RX6800XT",
         "category": "GPU",
@@ -197,7 +197,7 @@
         "series": "SAPPHIRE"
     },
     {
-        "name": "ASUS - ROG STRIX Radeon RX6800XT ROG-STRIX-LC-RX6800XT-O16G-GAMING",
+        "name": "ASUS - ROG STRIX Radeon RX6800XT",
         "neweggId": "14-126-475",
         "type": "RX6800XT",
         "category": "GPU",
@@ -211,259 +211,259 @@
         "series": "SAPPHIRE"
     },
     {
-        "name": "ZOTAC - GAMING GeForce RTX3070 Twin Edge",
+        "name": "ZOTAC - RTX3070 Twin Edge",
         "neweggId": "14-500-501",
         "type": "RTX3070",
         "category": "GPU",
         "series": "ZOTAC"
     },
     {
-        "name": "ASUS - Dual GeForce RTX3070",
+        "name": "ASUS - Dual RTX3070",
         "neweggId": "14-126-460",
         "type": "RTX3070",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "MSI - GeForce RTX3070 DirectX 12 RTX3070 VENTUS 2X",
+        "name": "MSI - RTX3070 VENTUS 2X",
         "neweggId": "14-137-605",
         "type": "RTX3070",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "EVGA - GeForce RTX3070 FTW3 ULTRA GAMING",
+        "name": "EVGA - RTX3070 FTW3 ULTRA GAMING",
         "neweggId": "14-487-532",
         "type": "RTX3070",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "ZOTAC - GAMING GeForce RTX3070 Twin Edge OC",
+        "name": "ZOTAC - GAMING RTX3070 Twin Edge OC",
         "neweggId": "14-500-505",
         "type": "RTX3070",
         "category": "GPU",
         "series": "ZOTAC"
     },
     {
-        "name": "ASUS - GeForce RTX3070 KO-RTX3070-O8G-GAMING",
+        "name": "ASUS - RTX3070 KO",
         "neweggId": "14-126-466",
         "type": "RTX3070",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "EVGA - GeForce RTX3070 XC3 BLACK GAMING",
+        "name": "EVGA - RTX3070 XC3 BLACK GAMING",
         "neweggId": "14-487-528",
         "type": "RTX3070",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "ASUS - ROG Strix GeForce RTX3070",
+        "name": "ASUS - ROG Strix RTX3070",
         "neweggId": "14-126-458",
         "type": "RTX3070",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "PNY - GeForce RTX3070 8GB UPRISING",
+        "name": "PNY - RTX3070 8GB UPRISING",
         "neweggId": "14-133-812",
         "type": "RTX3070",
         "category": "GPU",
         "series": "PNY"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3070",
+        "name": "GIGABYTE - RTX3070",
         "neweggId": "14-932-343",
         "type": "RTX3070",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "EVGA - GeForce RTX3070 FTW3 GAMING",
+        "name": "EVGA - RTX3070 FTW3 GAMING",
         "neweggId": "14-487-531",
         "type": "RTX3070",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "ASUS - TUF Gaming GeForce RTX3070",
+        "name": "ASUS - TUF Gaming RTX3070",
         "neweggId": "14-126-461",
         "type": "RTX3070",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "MSI - GeForce RTX3080 GAMING X TRIO",
+        "name": "MSI - RTX3080 GAMING X TRIO",
         "neweggId": "14-137-597",
         "type": "RTX3080",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "EVGA - GeForce RTX3080 XC3 ULTRA GAMING",
+        "name": "EVGA - RTX3080 XC3 ULTRA GAMING",
         "neweggId": "14-487-520",
         "type": "RTX3080",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "MSI - GeForce RTX3080 VENTUS 3X",
+        "name": "MSI - RTX3080 VENTUS 3X",
         "neweggId": "14-137-598",
         "type": "RTX3080",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3080 GV-N3080GAMING OC",
+        "name": "GIGABYTE - RTX3080 GV-N3080GAMING OC",
         "neweggId": "14-932-329",
         "type": "RTX3080",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "ASUS - TUF GeForce RTX3080",
+        "name": "ASUS - TUF RTX3080",
         "neweggId": "14-126-453",
         "type": "RTX3080",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "ASUS - ROG Strix GeForce RTX3080 ",
+        "name": "ASUS - ROG Strix RTX3080 ",
         "neweggId": "14-126-457",
         "type": "RTX3080",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "GIGABYTE - AORUS GeForce RTX3080 GV-N3080AORUS ",
+        "name": "GIGABYTE - AORUS RTX3080 GV-N3080AORUS ",
         "neweggId": "14-932-336",
         "type": "RTX3080",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3080 GV-N3080EAGLE OC",
+        "name": "GIGABYTE - RTX3080 GV-N3080EAGLE OC",
         "neweggId": "14-932-330",
         "type": "RTX3080",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3080 GV-N3080VISION OC",
+        "name": "GIGABYTE - RTX3080 GV-N3080VISION OC",
         "neweggId": "14-932-337",
         "type": "RTX3080",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "PNY - GeForce RTX3080 10GB XLR8 REVEL EPIC-X RGB",
+        "name": "PNY - RTX3080 10GB XLR8 REVEL EPIC-X RGB",
         "neweggId": "14-133-809",
         "type": "RTX3080",
         "category": "GPU",
         "series": "PNY"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3080 GV-N3080EAGLE",
+        "name": "GIGABYTE - RTX3080 GV-N3080EAGLE",
         "neweggId": "14-932-367",
         "type": "RTX3080",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "EVGA - GeForce RTX3090 FTW3 ULTRA",
+        "name": "EVGA - RTX3090 FTW3 ULTRA",
         "neweggId": "14-487-526",
         "type": "RTX3090",
         "category": "GPU",
         "series": "EVGA"
     },
     {
-        "name": "GIGABYTE - AORUS GeForce RTX3090",
+        "name": "GIGABYTE - AORUS RTX3090",
         "neweggId": "14-932-341",
         "type": "RTX3090",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "GIGABYTE - AORUS GeForce RTX3090 GV-N3090AORUS X",
+        "name": "GIGABYTE - AORUS RTX3090 GV-N3090AORUS X",
         "neweggId": "14-932-340",
         "type": "RTX3090",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "ASUS - ROG Strix GeForce RTX3090",
+        "name": "ASUS - ROG Strix RTX3090",
         "neweggId": "14-126-456",
         "type": "RTX3090",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "MSI - GeForce RTX3090 VENTUS 3X",
+        "name": "MSI - RTX3090 VENTUS 3X",
         "neweggId": "14-137-596",
         "type": "RTX3090",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3090 GV-N3090GAMING OC",
+        "name": "GIGABYTE - RTX3090 GV-N3090GAMING OC",
         "neweggId": "14-932-327",
         "type": "RTX3090",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "ASUS - TUF Gaming GeForce RTX3090",
+        "name": "ASUS - TUF Gaming RTX3090",
         "neweggId": "14-126-455",
         "type": "RTX3090",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "ASUS - TUF Gaming GeForce RTX3090",
+        "name": "ASUS - TUF Gaming RTX3090",
         "neweggId": "14-126-454",
         "type": "RTX3090",
         "category": "GPU",
         "series": "ASUS"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3090 GV-N3090VISION OC",
+        "name": "GIGABYTE - RTX3090 GV-N3090VISION OC",
         "neweggId": "14-932-365",
         "type": "RTX3090",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "MSI - GeForce RTX3090 X TRIO",
+        "name": "MSI - RTX3090 X TRIO",
         "neweggId": "14-137-595",
         "type": "RTX3090",
         "category": "GPU",
         "series": "MSI"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3090 GV-N3090EAGLE",
+        "name": "GIGABYTE - RTX3090 GV-N3090EAGLE",
         "neweggId": "14-932-328",
         "type": "RTX3090",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "ZOTAC - GAMING GeForce RTX3090 ZT-A30900D-10P",
+        "name": "ZOTAC - GAMING RTX3090 ZT-A30900D-10P",
         "neweggId": "14-500-503",
         "type": "RTX3090",
         "category": "GPU",
         "series": "ZOTAC"
     },
     {
-        "name": "GIGABYTE - GeForce RTX3090 GV-N3090EAGLE-24GD",
+        "name": "GIGABYTE - RTX3090 GV-N3090EAGLE-24GD",
         "neweggId": "14-932-366",
         "type": "RTX3090",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
-        "name": "EVGA - GeForce RTX3090 XC3 ULTRA",
+        "name": "EVGA - RTX3090 XC3 ULTRA",
         "neweggId": "14-487-524",
         "type": "RTX3090",
         "category": "GPU",
@@ -471,7 +471,7 @@
     },
     {
 
-        "name": "EVGA - GeForce RTX3080 FTW3 ULTRA",
+        "name": "EVGA - RTX3080 FTW3 ULTRA",
         "neweggId": "14-487-518",
         "type": "RTX3080",
         "category": "GPU",
