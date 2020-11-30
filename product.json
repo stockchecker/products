@@ -1,58 +1,58 @@
 [
     {
-        "names": "MSI - GeForce RTX 3070 VENTUS 3X OC BV",
+        "name": "MSI - GeForce RTX 3070 VENTUS 3X OC BV",
         "bestbuyId": "6438278",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "ASUS - TUF RTX 3070",
+        "name": "ASUS - TUF RTX 3070",
         "bestbuyId": "6439128",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "NVIDIA GeForce RTX 3070 Founder's Edition",
+        "name": "NVIDIA GeForce RTX 3070 Founder's Edition",
         "bestbuyId": "6429442",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "GIGABYTE - GeForce RTX 3070 VISION",
+        "name": "GIGABYTE - GeForce RTX 3070 VISION",
         "bestbuyId": "6439385",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "GIGABYTE - GeForce RTX 3070 (WITH RGB)",
+        "name": "GIGABYTE - GeForce RTX 3070 (WITH RGB)",
         "bestbuyId": "6437909",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "GIGABYTE - (AUROS) GeForce RTX 3070",
+        "name": "GIGABYTE - (AUROS) GeForce RTX 3070",
         "skuId": "6439384",
         "type": "bestbuy"
     },
     {
-        "names": "ASUS - ROG STRIX RTX 3070",
+        "name": "ASUS - ROG STRIX RTX 3070",
         "bestbuyId": "6439127",
         "type": "bestbuy"
     },
     {
-        "names": "PNY GeForce RTX 3070 EPIC-X RGB",
+        "name": "PNY GeForce RTX 3070 EPIC-X RGB",
         "skuId": "6432653",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "PNY GeForce RTX 3070 8GB Dual Fan Graphics Card",
+        "name": "PNY GeForce RTX 3070 8GB Dual Fan Graphics Card",
         "bestbuyId": "6432654",
         "type": "RTX3070",
         "category": "GPU",
@@ -60,28 +60,28 @@
 
     },
     {
-        "names": "GIGABYTE - (EAGLE) GeForce RTX 3070 8G GDDR6 PCI Express 4.0 Graphics Card Black",
+        "name": "GIGABYTE - (EAGLE) GeForce RTX 3070 8G GDDR6 PCI Express 4.0 Graphics Card Black",
         "bestbuyId": "6437912",
         "type": "RTX3070",
         "category": "GPU",
         "site": "newegg"
     },
     {
-        "names": "EVGA - GeForce RTX 3070 XC3 BLACK GAMING 8GB GDDR6X PCI Express 4.0 Graphics Card",
+        "name": "EVGA - GeForce RTX 3070 XC3 BLACK GAMING 8GB GDDR6X PCI Express 4.0 Graphics Card",
         "bestbuyId": "6439300",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "EVGA - GeForce RTX 3070 FTW3 ULTRA GAMING 8GB GDDR6X PCI Express 4.0 Graphics Card",
+        "name": "EVGA - GeForce RTX 3070 FTW3 ULTRA GAMING 8GB GDDR6X PCI Express 4.0 Graphics Card",
         "bestbuyId": "6439301",
         "type": "RTX3070",
         "category": "GPU",
         "site": "bestbuy"
     },
     {
-        "names": "EVGA - GeForce RTX 3070 XC3 ULTRA GAMING 8GB GDDR6X PCI Express 4.0 Graphics Card",
+        "name": "EVGA - GeForce RTX 3070 XC3 ULTRA GAMING 8GB GDDR6X PCI Express 4.0 Graphics Card",
         "bestbuyId": "6439299",
         "type": "RTX3070",
         "category": "GPU",
