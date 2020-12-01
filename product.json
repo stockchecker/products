@@ -2,60 +2,70 @@
     {
         "name": "EVGA - 3060TI XC Black Gaming",
         "neweggId": "13-387-533",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "EVGA - 3060 TI FTW3 Black Gaming",
         "neweggId": "14-487-534",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "EVGA - 3060TI XC Gaming",
         "neweggId": "14-487-535",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "EVGA - 3060 TI FTW Gaming",
         "neweggId": "14-487-536",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "EVGA - 3060 TI FTW Ultra",
         "neweggId": "14-487-537",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "Aorus - 3060 TI Master",
         "neweggId": "14-932-375",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "GIGABYTE - 3060 TI Gaming OC",
         "neweggId": "14-932-376",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "ASUS - 3060 TI STRIX",
         "neweggId": "14-126-471",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "GIGABYTE - 3060 TI Eagle",
         "neweggId": "14-932-378",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "ASUS - 3060 TI TUF",
         "neweggId": "14-126-471",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
@@ -68,12 +78,14 @@
     {
         "name": "MSI - 3060 TI GAMING X TRIO",
         "neweggId": "14-137-611",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
     {
         "name": "MSI - 3060 TI VENTUS 2X OC",
         "neweggId": "14-137-612",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
