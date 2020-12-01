@@ -1,5 +1,83 @@
 [
     {
+        "name": "EVGA - 3060TI XC Black Gaming",
+        "neweggId": "13-387-533",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "EVGA - 3060 TI FTW3 Black Gaming",
+        "neweggId": "14-487-534",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "EVGA - 3060TI XC Gaming",
+        "neweggId": "14-487-535",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "EVGA - 3060 TI FTW Gaming",
+        "neweggId": "14-487-536",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "EVGA - 3060 TI FTW Ultra",
+        "neweggId": "14-487-537",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "Aorus - 3060 TI Master",
+        "neweggId": "14-932-375",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "GIGABYTE - 3060 TI Gaming OC",
+        "neweggId": "14-932-376",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "ASUS - 3060 TI STRIX",
+        "neweggId": "14-126-471",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "GIGABYTE - 3060 TI Eagle",
+        "neweggId": "14-932-378",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "ASUS - 3060 TI TUF",
+        "neweggId": "14-126-471",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "EVGA - 3060 TI KO",
+        "neweggId": "14-126-474",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "MSI - 3060 TI GAMING X TRIO",
+        "neweggId": "14-137-611",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
+        "name": "MSI - 3060 TI VENTUS 2X OC",
+        "neweggId": "14-137-612",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
         "name": "MSI - RTX3070 VENTUS",
         "bestbuyId": "6438278",
         "type": "RTX3070",
