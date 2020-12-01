@@ -72,6 +72,7 @@
     {
         "name": "EVGA - 3060 TI KO",
         "neweggId": "14-126-474",
+        "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
     },
