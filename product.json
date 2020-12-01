@@ -36,7 +36,7 @@
     },
     {
         "name": "GIGABYTE - (AUROS) RTX3070",
-        "skuId": "6439384",
+        "bestbuyId": "6439384",
         "type": "RTX3070",
         "category": "GPU",
         "series": "GIGABYTE"
@@ -50,7 +50,7 @@
     },
     {
         "name": "PNY - RTX3070 EPIC-X RGB",
-        "skuId": "6432653",
+        "bestbuyId": "6432653",
         "type": "RTX3070",
         "category": "GPU",
         "series": "PNY"
