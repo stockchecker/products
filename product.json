@@ -39,35 +39,35 @@
         "neweggId": "14-932-375",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "GIGABYTE"
     },
     {
         "name": "GIGABYTE - 3060 TI Gaming OC",
         "neweggId": "14-932-376",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "GIGABYTE"
     },
     {
         "name": "ASUS - 3060 TI STRIX",
         "neweggId": "14-126-471",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "ASUS"
     },
     {
         "name": "GIGABYTE - 3060 TI Eagle",
         "neweggId": "14-932-378",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "GIGABYTE"
     },
     {
         "name": "ASUS - 3060 TI TUF",
         "neweggId": "14-126-471",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "ASUS"
     },
     {
         "name": "EVGA - 3060 TI KO",
@@ -81,14 +81,14 @@
         "neweggId": "14-137-611",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "MSI"
     },
     {
         "name": "MSI - 3060 TI VENTUS 2X OC",
         "neweggId": "14-137-612",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "MSI"
     },
     {
         "name": "MSI - RTX3070 VENTUS",
