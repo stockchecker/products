@@ -1,5 +1,12 @@
 [
     {
+        "name": "IN STOCK TEST PRODUCT",
+        "neweggId": "20-215-184",
+        "type": "RTX3060TI",
+        "category": "GPU",
+        "series": "EVGA"
+    },
+    {
         "name": "EVGA - 3060TI XC Gaming",
         "neweggId": "14-487-535",
         "type": "RTX3060TI",
