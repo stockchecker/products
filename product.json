@@ -1,28 +1,7 @@
 [
     {
-        "name": "EVGA - 3060TI XC Black Gaming",
-        "neweggId": "13-387-533",
-        "type": "RTX3060TI",
-        "category": "GPU",
-        "series": "EVGA"
-    },
-    {
-        "name": "EVGA - 3060 TI FTW3 Black Gaming",
-        "neweggId": "14-487-534",
-        "type": "RTX3060TI",
-        "category": "GPU",
-        "series": "EVGA"
-    },
-    {
         "name": "EVGA - 3060TI XC Gaming",
         "neweggId": "14-487-535",
-        "type": "RTX3060TI",
-        "category": "GPU",
-        "series": "EVGA"
-    },
-    {
-        "name": "EVGA - 3060 TI FTW Gaming",
-        "neweggId": "14-487-536",
         "type": "RTX3060TI",
         "category": "GPU",
         "series": "EVGA"
