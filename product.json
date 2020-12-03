@@ -603,12 +603,5 @@
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASRock"
-    },
-    {
-        "name": "GIGABYTE - RX6800XT",
-        "neweggId": "14-932-373",
-        "type": "RX6800XT",
-        "category": "GPU",
-        "series": "GIGABYTE"
     }
 ]
