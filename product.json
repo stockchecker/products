@@ -14,18 +14,34 @@
         "series": "EVGA"
     },
     {
-        "name": "Aorus - 3060 TI Master",
+        "name": "GIGABYTE - 3060 TI Aorus Master",
         "neweggId": "14-932-375",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4207453"
+        ]
     },
     {
         "name": "GIGABYTE - 3060 TI Gaming OC",
         "neweggId": "14-932-376",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+            "4207455"
+        ]
+    },
+    {
+        "name": "GIGABYTE - 3060 TI Gaming OC Pro",
+        "neweggId": "14-932-377",
+        "type": "RTX3060TI",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+            "4207457"
+        ]
     },
     {
         "name": "ASUS - 3060 TI STRIX",
@@ -35,18 +51,34 @@
         "series": "ASUS"
     },
     {
-        "name": "GIGABYTE - 3060 TI Eagle",
+        "name": "GIGABYTE - 3060 TI Eagle OC",
         "neweggId": "14-932-378",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+            "4207459"
+        ]
+    },
+    {
+        "name": "GIGABYTE - 3060 TI Eagle",
+        "neweggId": "14-932-379",
+        "type": "RTX3060TI",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+            "4207461"
+        ]
     },
     {
         "name": "ASUS - 3060 TI TUF",
         "neweggId": "14-126-471",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "ASUS"
+        "series": "ASUS",
+        "combos": [
+                "4211059"
+        ]
     },
     {
         "name": "EVGA - 3060 TI KO",
@@ -60,14 +92,33 @@
         "neweggId": "14-137-611",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "MSI"
+        "series": "MSI",
+        "combos": [
+            "4208144",
+            "4208318"
+        ]
+    },
+    {
+        "name": "ASUS - 3060 TI DUAL",
+        "neweggId": "14-126-468",
+        "type": "RTX3060TI",
+        "category": "GPU",
+        "series": "ASUS",
+        "combos": [
+            "4211058"
+        ]
     },
     {
         "name": "MSI - 3060 TI VENTUS 2X OC",
         "neweggId": "14-137-612",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "MSI"
+        "series": "MSI",
+        "combos": [
+                "4211037",
+                "4208270",
+                "4211039"
+        ]
     },
     {
         "name": "MSI - RTX3070 VENTUS",
@@ -201,7 +252,11 @@
         "neweggId": "14-932-374",
         "type": "RX6800",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combo": [
+                "4211104",
+                "4211098"
+        ]
     },
     {
         "name": "SAPPHIRE - RX6800",
@@ -285,7 +340,10 @@
         "neweggId": "14-500-501",
         "type": "RTX3070",
         "category": "GPU",
-        "series": "ZOTAC"
+        "series": "ZOTAC",
+        "combos": [
+                "4208118"
+        ]
     },
     {
         "name": "ASUS - Dual RTX3070",
@@ -302,6 +360,17 @@
         "series": "MSI"
     },
     {
+        "name": "MSI - RTX3070 VENTUS 3X OC",
+        "neweggId": "14-137-601",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "MSI",
+        "combos": [
+                "4207571",
+                "4208296"
+        ]
+    },
+    {
         "name": "EVGA - RTX3070 FTW3 ULTRA GAMING",
         "neweggId": "14-487-532",
         "type": "RTX3070",
@@ -313,7 +382,10 @@
         "neweggId": "14-500-505",
         "type": "RTX3070",
         "category": "GPU",
-        "series": "ZOTAC"
+        "series": "ZOTAC",
+        "combos": [
+                "4207753"
+        ]
     },
     {
         "name": "ASUS - RTX3070 KO",
@@ -334,7 +406,10 @@
         "neweggId": "14-126-458",
         "type": "RTX3070",
         "category": "GPU",
-        "series": "ASUS"
+        "series": "ASUS",
+        "combos": [
+                "4211050"
+        ]
     },
     {
         "name": "PNY - RTX3070 8GB UPRISING",
@@ -344,11 +419,74 @@
         "series": "PNY"
     },
     {
-        "name": "GIGABYTE - RTX3070",
+        "name": "GIGABYTE - RTX3070 EAGLE OC",
         "neweggId": "14-932-343",
         "type": "RTX3070",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190537"
+        ]
+    },
+    {
+        "name": "GIGABYTE - RTX3070 EAGLE",
+        "neweggId": "14-932-344",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4190539"
+        ]
+    },
+    {
+        "name": "GIGABYTE - RTX3070 AORUS",
+        "neweggId": "14-932-359",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4190541"
+        ]
+    },
+    {
+        "name": "GIGABYTE - RTX3070 AORUS",
+        "neweggId": "14-932-360",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4190543"
+        ]
+    },
+    {
+        "name": "GIGABYTE - RTX3070 GAMING OC",
+        "neweggId": "14-932-342",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4190581"
+        ]
+    },
+    {
+        "name": "MSI - RTX3070 VENTUS 2X OC",
+        "neweggId": "14-137-602",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "MSI",
+        "combos": [
+                "4206722"
+        ]
+    },
+    {
+        "name": "MSI - RTX3070 GAMING X TRIO",
+        "neweggId": "14-137-603",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "MSI",
+        "combos": [
+                "4210714"
+        ]
     },
     {
         "name": "EVGA - RTX3070 FTW3 GAMING",
@@ -358,6 +496,16 @@
         "series": "EVGA"
     },
     {
+        "name": "EVGA - RTX3070 XC3 ULTRA GAMING",
+        "neweggId": "14-487-530",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "EVGA",
+        "combos": [
+                "4211055"
+        ]
+    },
+    {
         "name": "ASUS - TUF Gaming RTX3070",
         "neweggId": "14-126-461",
         "type": "RTX3070",
@@ -365,32 +513,66 @@
         "series": "ASUS"
     },
     {
+        "name": "ASUS - RTX3070 DUAL",
+        "neweggId": "14-126-459",
+        "type": "RTX3070",
+        "category": "GPU",
+        "series": "ASUS",
+        "combos": [
+                "4211049"
+        ]
+    },
+    {
         "name": "MSI - RTX3080 GAMING X TRIO",
         "neweggId": "14-137-597",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "MSI"
+        "series": "MSI",
+        "combos": [
+                "4207521",
+                "4207523"
+        ]
+    },
+    {
+        "name": "MSI - RTX3080 SUPRIM X 10G",
+        "neweggId": "14-137-609",
+        "type": "RTX3080",
+        "category": "GPU",
+        "series": "MSI",
+        "combos": [
+                "4208280"
+        ]
     },
     {
         "name": "EVGA - RTX3080 XC3 ULTRA GAMING",
         "neweggId": "14-487-520",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "EVGA",
+        "combos": [
+                "4211077"
+        ]
     },
     {
         "name": "MSI - RTX3080 VENTUS 3X",
         "neweggId": "14-137-598",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "MSI"
+        "series": "MSI",
+        "combos": [
+                "4208292"
+        ]
     },
     {
         "name": "GIGABYTE - RTX3080 GV-N3080GAMING OC",
         "neweggId": "14-932-329",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190357",
+                "4207751"
+        ]
     },
     {
         "name": "ASUS - TUF RTX3080",
@@ -398,6 +580,16 @@
         "type": "RTX3080",
         "category": "GPU",
         "series": "ASUS"
+    },
+    {
+        "name": "ASUS - RTX3080 TUF GAMING",
+        "neweggId": "14-126-452",
+        "type": "RTX3080",
+        "category": "GPU",
+        "series": "ASUS",
+        "combos": [
+                "4211051"
+        ]
     },
     {
         "name": "ASUS - ROG Strix RTX3080 ",
@@ -411,21 +603,50 @@
         "neweggId": "14-932-336",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190361"
+        ]
+    },
+    {
+        "name": "GIGABYTE - AORUS RTX3080 GV-N3080AORUS X-10GD",
+        "neweggId": "14-932-345",
+        "type": "RTX3080",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4190483"
+        ]
+    },
+    {
+        "name": "GIGABYTE - RTX3080 AORUS XTREME WATERFORCE WB",
+        "neweggId": "14-932-371",
+        "type": "RTX3080",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4205013"
+        ]
     },
     {
         "name": "GIGABYTE - RTX3080 GV-N3080EAGLE OC",
         "neweggId": "14-932-330",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190359"
+        ]
     },
     {
         "name": "GIGABYTE - RTX3080 GV-N3080VISION OC",
         "neweggId": "14-932-337",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190363"
+        ]
     },
     {
         "name": "PNY - RTX3080 10GB XLR8 REVEL EPIC-X RGB",
@@ -439,7 +660,32 @@
         "neweggId": "14-932-367",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4191565"
+        ]
+    },
+    {
+        "name": "GIGABYTE - RTX3080 AORUS GV-N3080AORUSX W-10GD",
+        "neweggId": "14-932-372",
+        "type": "RTX3080",
+        "category": "GPU",
+        "series": "GIGABYTE",
+        "combos": [
+                "4207165"
+        ]
+    },
+    {
+        "name": "ZOTAC - RTX3080 TRINITY OC",
+        "neweggId": "14-500-504",
+        "type": "RTX3080",
+        "category": "GPU",
+        "series": "ZOTAC",
+        "combos": [
+                "4205211",
+                "4205221",
+                "4207525"
+        ]
     },
     {
         "name": "EVGA - RTX3090 FTW3 ULTRA",
@@ -453,14 +699,20 @@
         "neweggId": "14-932-341",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190467"
+        ]
     },
     {
         "name": "GIGABYTE - AORUS RTX3090 GV-N3090AORUS X",
         "neweggId": "14-932-340",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190485"
+        ]
     },
     {
         "name": "ASUS - ROG Strix RTX3090",
@@ -474,14 +726,20 @@
         "neweggId": "14-137-596",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "MSI"
+        "series": "MSI",
+        "combos": [
+                "4206043"
+        ]
     },
     {
         "name": "GIGABYTE - RTX3090 GV-N3090GAMING OC",
         "neweggId": "14-932-327",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4207623"
+        ]
     },
     {
         "name": "ASUS - TUF Gaming RTX3090",
@@ -502,21 +760,40 @@
         "neweggId": "14-932-365",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4199815"
+        ]
+    },
+    {
+        "name": "MSI - RTX3090 SUPRIM X 24G",
+        "neweggId": "14-137-610",
+        "type": "RTX3090",
+        "category": "GPU",
+        "series": "MSI",
+        "combos": [
+                "4208284"
+        ]
     },
     {
         "name": "MSI - RTX3090 X TRIO",
         "neweggId": "14-137-595",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "MSI"
+        "series": "MSI",
+        "combos": [
+                "4208290"
+        ]
     },
     {
         "name": "GIGABYTE - RTX3090 GV-N3090EAGLE",
         "neweggId": "14-932-328",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4190367"
+        ]
     },
     {
         "name": "ZOTAC - GAMING RTX3090 ZT-A30900D-10P",
@@ -530,7 +807,10 @@
         "neweggId": "14-932-366",
         "type": "RTX3090",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4191563"
+        ]
     },
     {
         "name": "EVGA - RTX3090 XC3 ULTRA",
@@ -545,14 +825,39 @@
         "neweggId": "14-487-518",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "EVGA",
+        "combos": [
+                "4211071"
+        ]
     },
     {
         "name": "AMD - Ryzen 9 5900X",
         "neweggId": "19-113-664",
         "type": "Ryzen5000",
         "category": "CPU",
-        "series": "AMD"
+        "series": "5900x",
+        "combos": [
+            "4190499",
+            "4190501",
+            "4190507",
+            "4199038",
+            "4199039",
+            "4199051",
+            "4199055",
+            "4199099",
+            "4199829",
+            "4200047",
+            "4207305",
+            "4207319",
+            "4208036",
+            "4210778",
+            "4210837",
+            "4210838",
+            "4210841",
+            "4210842",
+            "4211019",
+            "4211021"
+        ]
     },
 
     {
@@ -560,21 +865,127 @@
         "neweggId": "19-113-663",
         "type":"Ryzen5000",
         "category": "CPU",
-        "series": "AMD"
+        "series": "5950x",
+        "combos": [
+            "4190567",
+            "4190569",
+            "4199031",
+            "4199061",
+            "4199097",
+            "4199825",
+            "4207303",
+            "4207317",
+            "4210827",
+            "4210828",
+            "4210830",
+            "4210832",
+            "4211023",
+            "4211025",
+            "4211027"
+        ]
     },
     {
         "name": "AMD - Ryzen 5 5600X",
         "neweggId": "19-113-666",
         "type": "Ryzen5000",
         "category": "CPU",
-        "series": "AMD"
+        "series": "5600x",
+        "combos": [
+            "4190503",
+            "4199040",
+            "4199041",
+            "4199057",
+            "4199103",
+            "4207311",
+            "4207323",
+            "4207495",
+            "4208034",
+            "4208080",
+            "4210776",
+            "4210856",
+            "4210857",
+            "4210858",
+            "4211015",
+            "4211017"
+        ]
     },
     {
         "name": "AMD - Ryzen 7 5800X",
         "neweggId": "19-113-665",
         "type": "Ryzen5000",
         "category": "CPU",
-        "series": "AMD"
+        "series": "5800x",
+        "combos": [
+            "4190499",
+            "4190501",
+            "4190503",
+            "4190505",
+            "4190507",
+            "4190567",
+            "4190569",
+            "4199031",
+            "4199038",
+            "4199039",
+            "4199040",
+            "4199041",
+            "4199043",
+            "4199051",
+            "4199053",
+            "4199055",
+            "4199057",
+            "4199059",
+            "4199061",
+            "4199097",
+            "4199099",
+            "4199101",
+            "4199103",
+            "4199825",
+            "4199829",
+            "4200047",
+            "4207303",
+            "4207305",
+            "4207311",
+            "4207317",
+            "4207319",
+            "4207321",
+            "4207323",
+            "4207491",
+            "4207495",
+            "4208034",
+            "4208036",
+            "4208080",
+            "4210770",
+            "4210776",
+            "4210778",
+            "4210827",
+            "4210828",
+            "4210830",
+            "4210832",
+            "4210837",
+            "4210838",
+            "4210841",
+            "4210842",
+            "4210846",
+            "4210847",
+            "4210848",
+            "4210850",
+            "4210856",
+            "4210857",
+            "4210858",
+            "4210865",
+            "4211015",
+            "4211017",
+            "4211019",
+            "4211021",
+            "4211023",
+            "4211025",
+            "4211027",
+            "4211063",
+            "4211064",
+            "4211065",
+            "4211067",
+            "4211069"
+        ]
     },
     {
         "name": "MSI - RX6800XT",
