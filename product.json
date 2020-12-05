@@ -254,8 +254,7 @@
         "category": "GPU",
         "series": "GIGABYTE",
         "combo": [
-                "4211104",
-                "4211098"
+                "4211104"
         ]
     },
     {
@@ -275,9 +274,12 @@
     {
         "name": "GIGABYTE - RX6800XT",
         "neweggId": "14-932-373",
-        "type": "RX6800",
+        "type": "RX6800XT",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+            "4211098"
+        ]
     },
     {
         "name": "XFX - 6800XT Speedster MERC319",
