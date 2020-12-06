@@ -1009,5 +1009,46 @@
         "type": "RX6800XT",
         "category": "GPU",
         "series": "ASRock"
+    },
+    {
+        "name": "Microsoft Xbox Series X",
+        "neweggId": "68-105-273",
+        "type": "XBOX",
+        "category": "CONSOLE",
+        "series": "X",
+        "combos": [
+                "4205033"
+        ]
+    },
+    {
+        "name": "Microsoft Xbox Series S",
+        "neweggId": "68-105-274",
+        "type": "XBOX",
+        "category": "CONSOLE",
+        "series": "S",
+        "combos": [
+                "4205036"
+        ]
+    },
+    {
+        "name": "PS5 Console and One Extra Controller",
+        "neweggId": "68-110-292",
+        "type": "PS5",
+        "category": "CONSOLE",
+        "series": "PS5"
+    },
+    {
+        "name": "PS5 Console, Controller, Spider-Man, Sackboy",
+        "neweggId": "68-110-293",
+        "type": "PS5",
+        "category": "CONSOLE",
+        "series": "PS5"
+    },
+    {
+        "name": "PS5 Console, Controller, Sackboy, Spider-Man",
+        "neweggId": "68-110-291",
+        "type": "PS5",
+        "category": "CONSOLE",
+        "series": "PS5"
     }
 ]
