@@ -1068,5 +1068,40 @@
         "type": "PS5",
         "category": "CONSOLE",
         "series": "PS5"
+    },
+    {
+        "name": "ASRock - RX6900XT",
+        "neweggId": "14-202-388",
+        "type": "RX6900XT",
+        "category": "GPU",
+        "series": "ASRock"
+    },
+    {
+        "name": "GIGABYTE - RX6900XT",
+        "neweggId": "14-202-388",
+        "type": "RX6900XT",
+        "category": "GPU",
+        "series": "GIGABYTE"
+    },
+    {
+        "name": "MSI - RX6900XT",
+        "neweggId": "14-202-388",
+        "type": "RX6900XT",
+        "category": "GPU",
+        "series": "MSI"
+    },
+    {
+        "name": "PowerColor - RX6900XT",
+        "neweggId": "14-202-388",
+        "type": "RX6900XT",
+        "category": "GPU",
+        "series": "PowerColor"
+    },
+    {
+        "name": "SAPPHIRE - RX6900XT",
+        "neweggId": "14-202-388",
+        "type": "RX6900XT",
+        "category": "GPU",
+        "series": "SAPPHIRE"
     }
 ]
