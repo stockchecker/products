@@ -1071,35 +1071,38 @@
     },
     {
         "name": "ASRock - RX6900XT",
-        "neweggId": "14-202-388",
+        "neweggId": "14-930-051",
         "type": "RX6900XT",
         "category": "GPU",
-        "series": "ASRock"
+        "series": "ASRock",
+        "combos": [
+                "4211206"
+        ]
     },
     {
         "name": "GIGABYTE - RX6900XT",
-        "neweggId": "14-202-388",
+        "neweggId": "14-932-384",
         "type": "RX6900XT",
         "category": "GPU",
         "series": "GIGABYTE"
     },
     {
         "name": "MSI - RX6900XT",
-        "neweggId": "14-202-388",
+        "neweggId": "14-137-618",
         "type": "RX6900XT",
         "category": "GPU",
         "series": "MSI"
     },
     {
         "name": "PowerColor - RX6900XT",
-        "neweggId": "14-202-388",
+        "neweggId": "14-131-774",
         "type": "RX6900XT",
         "category": "GPU",
         "series": "PowerColor"
     },
     {
         "name": "SAPPHIRE - RX6900XT",
-        "neweggId": "14-202-388",
+        "neweggId": "14-202-393",
         "type": "RX6900XT",
         "category": "GPU",
         "series": "SAPPHIRE"
