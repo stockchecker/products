@@ -78,15 +78,20 @@
         "series": "ASUS",
         "combos": [
                 "4211059",
-                "4211168"
+                "4211168",
+                "4211465"
         ]
     },
     {
-        "name": "EVGA - 3060 TI KO",
+        "name": "ASUS - 3060 TI KO",
         "neweggId": "14-126-474",
         "type": "RTX3060TI",
         "category": "GPU",
-        "series": "EVGA"
+        "series": "ASUS",
+        "combos": [
+                "4211463",
+                "4211463"
+        ]
     },
     {
         "name": "MSI - 3060 TI GAMING X TRIO",
@@ -107,7 +112,8 @@
         "series": "ASUS",
         "combos": [
             "4211058",
-            "4211167"
+            "4211167",
+            "4211464"
         ]
     },
     {
@@ -413,7 +419,8 @@
         "series": "ASUS",
         "combos": [
                 "4211050",
-                "4211164"
+                "4211164",
+                "4211468"
         ]
     },
     {
@@ -517,7 +524,8 @@
         "category": "GPU",
         "series": "ASUS",
         "combos": [
-                "4211163"
+                "4211163",
+                "4211467"
         ]
     },
     {
@@ -528,7 +536,8 @@
         "series": "ASUS",
         "combos": [
                 "4211049",
-                "4211160"
+                "4211160",
+                "4211466"
         ]
     },
     {
@@ -559,7 +568,8 @@
         "category": "GPU",
         "series": "EVGA",
         "combos": [
-                "4211077"
+                "4211077",
+                "4211472"
         ]
     },
     {
@@ -588,7 +598,9 @@
         "neweggId": "14-126-453",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "ASUS"
+        "series": "ASUS",
+        "combos": [
+                "4211469"
     },
     {
         "name": "ASUS - RTX3080 TUF GAMING",
@@ -605,7 +617,9 @@
         "neweggId": "14-126-457",
         "type": "RTX3080",
         "category": "GPU",
-        "series": "ASUS"
+        "series": "ASUS",
+        "combos": [
+                "4211470"
     },
     {
         "name": "GIGABYTE - AORUS RTX3080 GV-N3080AORUS ",
