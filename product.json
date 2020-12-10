@@ -1098,6 +1098,13 @@
         "series": "PS5"
     },
     {
+        "name": "PS5 Console",
+        "neweggId": "68-110-296",
+        "type": "PS5",
+        "category": "CONSOLE",
+        "series": "PS5"
+    },
+    {
         "name": "ASRock - RX6900XT",
         "neweggId": "14-930-051",
         "type": "RX6900XT",
