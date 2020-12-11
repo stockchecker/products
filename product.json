@@ -1134,7 +1134,10 @@
         "neweggId": "14-932-384",
         "type": "RX6900XT",
         "category": "GPU",
-        "series": "GIGABYTE"
+        "series": "GIGABYTE",
+        "combos": [
+                "4211582"
+        ]
     },
     {
         "name": "MSI - RX6900XT",
