@@ -814,16 +814,6 @@
         ]
     },
     {
-        "name": "MSI - RTX3090 X TRIO",
-        "neweggId": "14-137-595",
-        "type": "RTX3090",
-        "category": "GPU",
-        "series": "MSI",
-        "combos": [
-                "4208290"
-        ]
-    },
-    {
         "name": "GIGABYTE - RTX3090 GV-N3090EAGLE",
         "neweggId": "14-932-328",
         "type": "RTX3090",
