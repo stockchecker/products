@@ -401,20 +401,6 @@
         "site": "newegg"
     },
     {
-        "name": "AMD Ryzen 5 5600X",
-        "itemId": "19-113-666",
-        "type": "Ryzen 5000",
-        "category": "CPU",
-        "site": "newegg"
-    },
-    {
-        "name": "AMD Ryzen 7 5800X",
-        "itemId": "19-113-665",
-        "type": "Ryzen 5000",
-        "category": "CPU",
-        "site": "newegg"
-    },
-    {
         "name": "MSI Radeon RX 6800 XT",
         "itemId": "14-137-607",
         "type": "RX 6800XT",
